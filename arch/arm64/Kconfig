@@ -1299,6 +1299,8 @@ source "net/Kconfig"
 
 source "drivers/Kconfig"
 
+source "otherdrivers/Kconfig"
+
 source "drivers/firmware/Kconfig"
 
 source "drivers/acpi/Kconfig"
